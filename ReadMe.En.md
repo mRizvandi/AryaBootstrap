@@ -1,6 +1,8 @@
 # AryaBootstrap
-### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design.
+### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design. (bootstrap rtl 4.4.1)
 Based on Bootstrap Ver 4.4.1
+
+> [NuGet Package](https://www.nuget.org/packages/AryaBootstrap/)
 
 ![AryaBootstrap | آریا بوت استرپ](images/AryaBootstrap.jpg)
 
@@ -12,7 +14,7 @@ AryaBootstrap is an open source toolkit for developing with HTML, CSS, and JS. Q
 
 Installation AryaBootstrap is as simple as Bootstrap.
 
-#### 1. First of all, Download the github AryaBootstrap repository، [GitHub](http://github.com/mRizvandi/AryaBootstrap).
+#### 1. First of all, Download the AryaBootstrap، [GitHub](http://github.com/mRizvandi/AryaBootstrap) or [NuGet](https://www.nuget.org/packages/AryaBootstrap/).
 
 Extract the files and folders, copy Css and Js folders to your project.
 
@@ -59,5 +61,12 @@ Add "dir" property to your "html" tag. use **dir="rtl"** for RTL layout and **di
 Check the AryaBootstrap Website, there are some sample and articles (Persian Version).
 
 ### [AryaBootstrap Website](http://abs.aryavandidad.com)
+
+
+### Old and Other Version
+[AryaBootstrap 4.3.1](https://github.com/mRizvandi/AryaBootstrap-4.3.1)
+
+[AryaBootstrap 4.0.0](https://github.com/mRizvandi/AryaBootstrap-4.0.0)
+
 
 #### Persian Version is also avilable at [Persian ReadMe](https://github.com/mRizvandi/AryaBootstrap/blob/master/README.md)
