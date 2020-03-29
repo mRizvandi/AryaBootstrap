@@ -1,6 +1,8 @@
 # AryaBootstrap
-### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design.
+### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design. (bootstrap rtl 4.4.1)
 Based on Bootstrap Ver 4.4.1 - Read English Version [ReadMe.EN.md](https://github.com/mRizvandi/AryaBootstrap/blob/master/ReadMe.En.md)
+
+[NuGet Package](https://www.nuget.org/packages/AryaBootstrap/)
 
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 
@@ -16,7 +18,7 @@ Based on Bootstrap Ver 4.4.1 - Read English Version [ReadMe.EN.md](https://githu
 
 ### با بهره گیری از کتابخانه آریا بوت استرپ، پروژه های نسخه موبایل، واکنشگرا برای وب طراحی کنید.
 
-آریا بوت استرپ، یک ابزرا *رایگان* برای توسعه وب سایت ها است که از اچ تی ام ال، استایل و جاوا اسکریپت تشکیل شده است. می توانید به سرعت نمونه اولیه یا برنامه خود را با استفاده از الگوها و نمونه های طراحی شده توسعه دهید. این نسخه از آریا بوت استرپ بر مبنای نسخه 4.0.0 بوت استرپ ایجاد شده است. بنابراین تمام قابلیتهای بوت استرپ در این کتابخانه مهیا است. 
+آریا بوت استرپ، یک ابزرا رایگان برای توسعه وب سایت ها است که از اچ تی ام ال، استایل و جاوا اسکریپت تشکیل شده است. می توانید به سرعت نمونه اولیه یا برنامه خود را با استفاده از الگوها و نمونه های طراحی شده توسعه دهید. این نسخه از آریا بوت استرپ بر مبنای نسخه 4.0.0 بوت استرپ ایجاد شده است. بنابراین تمام قابلیتهای بوت استرپ در این کتابخانه مهیا است. 
 
 ### راه اندازی
 
@@ -78,5 +80,11 @@ Based on Bootstrap Ver 4.4.1 - Read English Version [ReadMe.EN.md](https://githu
 برای اطلاعات بیشتر و مشاهده نمونه کامپوننتهای راست چین به آدرس وب سایت اختصاصی آریا بوت استرپ مراجعه کنید:
 
 وب سایت [آریا بوت استرپ](http://abs.aryavandidad.com)
+
+
+### نسخه های پیشین
+[AryaBootstrap 4.3.1](https://github.com/mRizvandi/AryaBootstrap-4.3.1)
+
+[AryaBootstrap 4.0.0](https://github.com/mRizvandi/AryaBootstrap-4.0.0)
 
 </div>
