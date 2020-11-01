@@ -1,6 +1,6 @@
 # AryaBootstrap
-### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design. (bootstrap rtl 4.4.1)
-Based on Bootstrap Ver 4.4.1
+### AryaBootstrap is a bootstrap with dual layout align support and, used for LTR and RTL web design. (bootstrap rtl 4.5.3)
+Based on Bootstrap Ver 4.5.3
 
 > [NuGet Package](https://www.nuget.org/packages/AryaBootstrap/)
 
@@ -8,7 +8,7 @@ Based on Bootstrap Ver 4.4.1
 
 ### Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
 
-AryaBootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our templates, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery. This Version of AryaBootstrap is based on Bootstrap Ver 4.4.1 and all bootstrap feature is provided.
+AryaBootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our templates, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery. This Version of AryaBootstrap is based on Bootstrap Ver 4.5.3 and all bootstrap feature is provided.
 
 ### Installation
 
@@ -43,9 +43,9 @@ At the end, you have to add Bootstrap.js
 Also, you can use the bootstrap CDN files insted use of downloaded files:
 
 ```
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
 ```
 
 #### 4. Latest and Important Step
@@ -64,9 +64,9 @@ Check the AryaBootstrap Website, there are some sample and articles (Persian Ver
 
 
 ### Old and Other Version
-[AryaBootstrap 4.3.1](https://github.com/mRizvandi/AryaBootstrap-4.3.1)
+[AryaBootstrap 4.4.1](https://github.com/mRizvandi/AryaBootstrap-4.4.1)
 
-[AryaBootstrap 4.0.0](https://github.com/mRizvandi/AryaBootstrap-4.0.0)
+[AryaBootstrap 4.3.1](https://github.com/mRizvandi/AryaBootstrap-4.3.1)
 
 
 #### Persian Version is also avilable at [Persian ReadMe](https://github.com/mRizvandi/AryaBootstrap/blob/master/README.md)
